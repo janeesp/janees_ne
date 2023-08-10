@@ -45,6 +45,7 @@ class _SingPageState extends State<SingPage> {
               controller: Email_controler,
               decoration: InputDecoration(
                   hintText: "Email",
+
                   border: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(10)
                   )
